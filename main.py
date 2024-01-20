@@ -4,7 +4,7 @@ import asyncio
 import time
 
 token = ""  # token
-hook = "https://discord.com/api/webhooks/1198282135866441759/EY8J78DyaNY6TS_iO3hzhvDri2KZ-cCc7bDRCA5gO451JknRxCX5CHbc4a0hxHD9YZsK"  # webhook link
+hook = ""  # webhook link
 guild = "1197871296214745159"
 vanity_list = ["allahv"]
 delay = 0.1
